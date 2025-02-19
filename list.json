@@ -1,16 +1,14 @@
 {
   "sites": [
     {
-      "name": "Bill Hunt",
-      "url": "https://billhunt.dev/",
-      "author": "Bill Hunt <hello@billhunt.email>",
-      "rss": "https://billhunt.dev/feed.xml"
+      "name": "Monadnock Regional Artists & Artisans WebRing",
+      "url": "https://webring.idyllwilddreams.com",
+      "author": "Andrea Saari <idyllwilddreams@aol.com>",
     },
     {
-      "name": "Somebody",
-      "url": "https://www.example.com/",
-      "author": "Somebody <somebody@example.com>",
-      "rss": "https://www.example.com/feed.xml"
+      "name": "Idyllwild Dreams",
+      "url": "https://www.idyllwilddreams.com",
+      "author": "Andrea Saari <idyllwilddreams@aol.com>",
     }
   ]
 }
